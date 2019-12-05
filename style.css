@@ -1,0 +1,14 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#title{
+  text-align:center;
+  opacity:0.5;
+}
+
+#bingo{
+  text-align: center;
+  opacity:0.8;
+}
